@@ -1,0 +1,10 @@
+.form-control {
+    display: inline-block;
+    width: 200px;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+    text-align: center
+  }
+  
